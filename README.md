@@ -1,2 +1,0 @@
-# .github
-SoftCode Public README
